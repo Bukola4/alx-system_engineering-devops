@@ -18,6 +18,6 @@ do
 		echo 'bad luck from Italy'
 	else
 		echo $i
-	if
+	fi
 	((i++))
 done
